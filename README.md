@@ -29,4 +29,8 @@ React Router for smooth navigation
 
 -React Router
 ----------------------------------------------------------------------------------------------------------
-[image url](https://github.com/Parvesh-ops/E-commerce-Dashboard/blob/89f64b08975c409f2978c2649599eba60e6f357d/Screenshot%20(8).png)
+![image url](https://github.com/Parvesh-ops/E-commerce-Dashboard/blob/89f64b08975c409f2978c2649599eba60e6f357d/Screenshot%20(8).png)
+![image url](https://github.com/Parvesh-ops/E-commerce-Dashboard/blob/0d4fb47fe48b800261201be790f5f9f6ef8a0f99/Screenshot%20(9).png)
+![image url](https://github.com/Parvesh-ops/E-commerce-Dashboard/blob/0d4fb47fe48b800261201be790f5f9f6ef8a0f99/Screenshot%20(10).png)
+![image url](https://github.com/Parvesh-ops/E-commerce-Dashboard/blob/0d4fb47fe48b800261201be790f5f9f6ef8a0f99/Screenshot%20(11).png)
+![image url](https://github.com/Parvesh-ops/E-commerce-Dashboard/blob/0d4fb47fe48b800261201be790f5f9f6ef8a0f99/Screenshot%20(12).png)
